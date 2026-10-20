@@ -13,4 +13,11 @@ Nash Equilibrium Stability Indices to evaluate market pricing parity and competi
 
 Empirical results demonstrate that while overall sales volume and combinatorial configuration diversity expand dramatically during Q4, systemic market uncertainty drops as consumer purchasing and competitor discounting converge into predictable macro-states. This multidisciplinary approach provides retailers with robust quantitative triggers for automated inventory procurement, showroom allocation, and strategic pricing alignment.
 
+Included files:
+Shannon_Entropy_python_script.pdf
+Nash_Equilibrium_python_script.pdf
+Boltzmann_python_scipts.pdf
+
+mattress_sales_mockup_3years.csv
+
 My full paper on the subject is published at the following link: https://zenodo.org/records/23401091
